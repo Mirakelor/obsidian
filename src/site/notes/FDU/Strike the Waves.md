@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Strike the Waves","dg-created":"Sep. 24th. 2025","tags":["FDU","English","Competition"],"permalink":"/FDU/Strike the Waves/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Strike the Waves","dg-created":"Sep. 24th. 2025","tags":["FDU","English","Competition","外研社·国才杯"],"permalink":"/FDU/Strike the Waves/","dgPassFrontmatter":true}
 ---
 
 Real-like story - connect the past and the present
