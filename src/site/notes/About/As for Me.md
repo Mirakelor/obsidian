@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"As for Me","dg-created":"Aug. 9th. 2025","tags":["About","gardenEntry"],"dg-home":true,"permalink":"/About/As for Me/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"As for Me","dg-created":"2025-10-07","tags":["About","gardenEntry"],"dg-home":true,"permalink":"/About/As for Me/","dgPassFrontmatter":true}
 ---
 
 **【青衫少年游，曲中藏星斗】**
