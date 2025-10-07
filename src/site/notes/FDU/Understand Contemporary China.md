@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":{"Understand Contemporary China":null},"dg-created":{"2025-10-07":null},"tags":["外研社·国才杯","English","Competition","FDU"],"permalink":"/FDU/Understand Contemporary China/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Understand Contemporary China","dg-created":"2025-10-07","tags":["外研社·国才杯","English","Competition","FDU"],"permalink":"/FDU/Understand Contemporary China/","dgPassFrontmatter":true}
 ---
 
 ## 典故篇

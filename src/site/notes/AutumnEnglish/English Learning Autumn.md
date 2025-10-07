@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":{"English Learning Autumn":null},"dg-created":{"2025-10-07":null},"tags":["English","FDU","Volunteer"],"permalink":"/AutumnEnglish/English Learning Autumn/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"English Learning Autumn","dg-created":"2025-10-07","tags":["English","FDU","Volunteer"],"permalink":"/AutumnEnglish/English Learning Autumn/","dgPassFrontmatter":true}
 ---
 
 > 2025年秋，我参加了数心阁志愿者项目，使用这份单词表给辅导的同学巩固英语基础
